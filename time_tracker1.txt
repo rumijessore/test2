@@ -3,3 +3,5 @@ now Time is 10.16
 feature1 : now i am doing git turotial. which needs to be merged with the master later
 
 now i am in feature 2.
+
+now i am in master after merging all branch.
